@@ -54,6 +54,6 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 ![Caplot Medical Examination Data](catplot.png)
 
-## heatmpap
+## heatmap
 
 ![Heatmap Medical Examination Data](heatmap.png)
