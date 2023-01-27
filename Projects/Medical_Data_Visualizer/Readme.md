@@ -52,4 +52,8 @@ Copy your project's URL and submit it to freeCodeCamp.
 
 ## catplot 
 
-/assets/images/electrocat.png
+![Caplot Medical Examination Data](catplot.png)
+
+## heatmpap
+
+![Heatmap Medical Examination Data](heatmap.png)
