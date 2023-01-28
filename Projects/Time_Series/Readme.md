@@ -27,9 +27,10 @@ Copy your project's URL and submit it to freeCodeCamp.
 ## Visualizations
 
 ### Line Plot
-
+![Line Plot with Daily freeCodeCamp Forum Page Views from 5/2016 to 12/2019](line_plot.png)
 
 ### Bar Plot
-
+![Bar plot with average daily page views for each month grouped by year](bar_plot.png)
 
 ### Box Plot
+![Two box plots with the distribution of page views per Year (trend) and Month (Seasonality)](box_plot.png)
