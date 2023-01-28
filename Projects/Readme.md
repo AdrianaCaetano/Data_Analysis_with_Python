@@ -1,6 +1,6 @@
 # Data Analysis with Python Projects 
 
-Projects created to fulfill the requirements of the Data Analysis with Pytthon Certification.
+Projects created to fulfill the requirements of the Data Analysis with Python Certification.
 
 1. Mean-Variance-Standard Deviation Calculator
 2. Demographic Data Analyzer
