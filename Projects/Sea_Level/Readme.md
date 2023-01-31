@@ -27,4 +27,4 @@ Copy your project's URL and submit it to freeCodeCamp.
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
 
 ## Visualization
-![Rise of Sea Level since 1880](!/sea_level_plot.png)
+![Rise of Sea Level since 1880](!sea_level_plot.png)
